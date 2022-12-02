@@ -1,0 +1,12 @@
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\bin\Debug\AlgoritmoRSI.exe.config
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\bin\Debug\AlgoritmoRSI.exe
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\bin\Debug\AlgoritmoRSI.pdb
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.csproj.AssemblyReference.cache
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.csproj.SuggestedBindingRedirects.cache
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.Properties.Resources.resources
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.csproj.GenerateResource.cache
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.csproj.CoreCompileInputs.cache
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.exe
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.pdb
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.Reclutamiento.resources
+C:\Users\BelemL\source\repos\AlgoritmoRSI\AlgoritmoRSI\obj\Debug\AlgoritmoRSI.Seleccion.resources
